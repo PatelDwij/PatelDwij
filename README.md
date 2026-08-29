@@ -108,14 +108,14 @@ Full-stack web application with client-server architecture and authentication.
 
 <img src="https://img.shields.io/badge/OdooXParul-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-Full-stack travel planning platform — trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
+**Traveloop** — a full-stack travel planning platform with trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
 
 `JavaScript` `Full-Stack` `Travel-Tech`
 
 <img src="https://img.shields.io/github/stars/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Stars"/>
 <img src="https://img.shields.io/github/last-commit/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Updated"/>
 
-**[Explore Repository →](https://github.com/PatelDwij/OdooXParul)**
+**[Explore Repository →](https://github.com/PatelDwij/OdooXParul)** · **[Live Demo →](https://odoo-x-parul-kappa.vercel.app/)**
 
 </td>
 </tr>
