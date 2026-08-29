@@ -76,16 +76,20 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelDwij&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelDwij&theme=react-dark&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9"/>
-</div>
-
 <br/>
 
 ## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PatelDwij&theme=darkhub&no-frame=true&row=1&column=6"/>
 </div>
 
 <br/>
