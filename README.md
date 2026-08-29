@@ -88,14 +88,14 @@
 
 <img src="https://img.shields.io/badge/OddoxGcet-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-Full-stack web application with client-server architecture and authentication.
+**Shiv Furniture ERP** — a full-stack enterprise resource planning (ERP) system with client-server architecture and authentication.
 
 `JavaScript` `Full-Stack`
 
 <img src="https://img.shields.io/github/stars/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Stars"/>
 <img src="https://img.shields.io/github/last-commit/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Updated"/>
 
-**[Explore Repository →](https://github.com/PatelDwij/OddoxGcet)**
+**[Explore Repository →](https://github.com/PatelDwij/OddoxGcet)** · **[Live Demo →](https://oddox-gcet-796i.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
