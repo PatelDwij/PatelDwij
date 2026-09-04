@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Patel%20Dwij&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20and%20AI%2FIoT%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Patel%20Dwij&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/PatelDwij">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI+%26+IoT+Enthusiast;Competitive+Problem+Solver;Hackathon+Participant" alt="Typing SVG" />
