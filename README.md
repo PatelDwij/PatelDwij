@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI+%26+IoT+Enthusiast;Competitive+Problem+Solver;Hackathon+Participant" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="https://github.com/PatelDwij">
-  <img src="https://komarev.com/ghpvc/?username=PatelDwij&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-</a>
-<img src="https://img.shields.io/github/followers/PatelDwij?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
-
 </div>
 
 <br/>
@@ -62,12 +55,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/PatelDwij&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=58A6FF&logo=github"/>
-<img src="https://img.shields.io/github/followers/PatelDwij?label=Followers&style=for-the-badge&color=58A6FF&logo=github"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelDwij&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=PatelDwij&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
 
 <br/>
@@ -75,8 +67,23 @@
 ## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
+
+<br/>
+
+## Live Projects
+
+### SIH 2026
+- 🏥 **Anvay Healthcare Network** — [anvay-healthcare-network.web.app](https://anvay-healthcare-network.web.app)
+- 🌦️ **Weather App** — [weather-a9f6b.web.app](https://weather-a9f6b.web.app/)
+
+### IBM BOB – CHARUSAT
+- ⚡ **GridGuard AI** — [gridguard-ai-32b1b.web.app](https://gridguard-ai-32b1b.web.app/)
 
 <br/>
 
@@ -139,5 +146,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
