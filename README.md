@@ -114,26 +114,17 @@
 
 <img src="https://img.shields.io/badge/SIH%202026-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-**Anvay Healthcare Network** — a healthcare network platform built for Smart India Hackathon 2026.
+**Smart India Hackathon 2026 — two live projects**
 
-`SIH 2026` `Healthcare` `Firebase`
+🏥 **Anvay Healthcare Network** — a healthcare network platform connecting patients and care services.
 
-**[Live Demo →](https://anvay-healthcare-network.web.app)**
+🌦️ **Weather App** — a live weather web app with real-time conditions for any location.
 
-</td>
-<td width="50%" valign="top">
+`SIH 2026` `Healthcare` `Weather` `Firebase`
 
-<img src="https://img.shields.io/badge/SIH%202026-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-**Weather App** — a live weather web app built for Smart India Hackathon 2026.
-
-`SIH 2026` `Weather` `Firebase`
-
-**[Live Demo →](https://weather-a9f6b.web.app/)**
+**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)** · **[Weather Live Demo →](https://weather-a9f6b.web.app/)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <img src="https://img.shields.io/badge/IBM%20BOB%20CHARUSAT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
@@ -145,7 +136,6 @@
 **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
