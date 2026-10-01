@@ -118,11 +118,13 @@
 
 🏥 **Anvay Healthcare Network** — a healthcare network platform connecting patients and care services.
 
+**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)**
+
 🌦️ **Weather App** — a live weather web app with real-time conditions for any location.
 
-`SIH 2026` `Healthcare` `Weather` `Firebase`
+**[Weather Live Demo →](https://weather-a9f6b.web.app/)**
 
-**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)** · **[Weather Live Demo →](https://weather-a9f6b.web.app/)**
+`SIH 2026` `Healthcare` `Weather` `Firebase`
 
 </td>
 <td width="50%" valign="top">
