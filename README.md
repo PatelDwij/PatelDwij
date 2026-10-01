@@ -142,13 +142,16 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Coding%20Wizard-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/Coding%20Wizards-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-**Screenshot to Structured Data** — converts timetables, posters, notices or receipts into structured information and triggers a useful action, using OCR/LLM extraction, APIs and a web UI.
+**Coding Wizard — Screenshot to Structured Data** — converts timetables, posters, notices, or receipts into structured information using OCR and LLM-based extraction, then triggers a useful action from the result.
 
 `AI / Automation` `OCR` `LLM API` `Web UI`
 
-**[Live Demo →](https://coding-wizards.vercel.app/)**
+<img src="https://img.shields.io/github/stars/PatelDwij/Coding_Wizards?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/Coding_Wizards?style=flat-square&color=58A6FF&label=Updated"/>
+
+**[Explore Repository →](https://github.com/PatelDwij/Coding_Wizards)** · **[Live Demo →](https://coding-wizards.vercel.app/)**
 
 </td>
 <td width="50%" valign="top"></td>
