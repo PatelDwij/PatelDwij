@@ -139,6 +139,20 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Coding%20Wizard-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+
+**Coding Wizard** — a coding-focused web app built to help developers learn and practice programming.
+
+`Web App` `Coding` `Vercel`
+
+**[Live Demo →](https://coding-wizards.vercel.app/)**
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 <br/>
