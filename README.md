@@ -118,9 +118,15 @@
 
 🏥 **Anvay Healthcare Network** — a healthcare network platform connecting patients and care services.
 
+<img src="https://img.shields.io/github/stars/PatelDwij/ANVAY-REPO-NAME?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/ANVAY-REPO-NAME?style=flat-square&color=58A6FF&label=Updated"/>
+
 **[Anvay Live Demo →](https://anvay-healthcare-network.web.app)**
 
 🌦️ **Weather App** — a live weather web app with real-time conditions for any location.
+
+<img src="https://img.shields.io/github/stars/PatelDwij/WEATHER-REPO-NAME?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/WEATHER-REPO-NAME?style=flat-square&color=58A6FF&label=Updated"/>
 
 **[Weather Live Demo →](https://weather-a9f6b.web.app/)**
 
@@ -135,6 +141,9 @@
 
 `IBM BOB` `AI` `Firebase`
 
+<img src="https://img.shields.io/github/stars/PatelDwij/GRIDGUARD-REPO-NAME?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/GRIDGUARD-REPO-NAME?style=flat-square&color=58A6FF&label=Updated"/>
+
 **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
 
 </td>
@@ -144,9 +153,12 @@
 
 <img src="https://img.shields.io/badge/Coding%20Wizard-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-**Coding Wizard** — a coding-focused web app built to help developers learn and practice programming.
+**Screenshot to Structured Data** — converts timetables, posters, notices or receipts into structured information and triggers a useful action, using OCR/LLM extraction, APIs and a web UI.
 
-`Web App` `Coding` `Vercel`
+`AI / Automation` `OCR` `LLM API` `Web UI`
+
+<img src="https://img.shields.io/github/stars/PatelDwij/CODING-WIZARD-REPO-NAME?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/CODING-WIZARD-REPO-NAME?style=flat-square&color=58A6FF&label=Updated"/>
 
 **[Live Demo →](https://coding-wizards.vercel.app/)**
 
