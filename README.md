@@ -12,11 +12,9 @@
 
 ## About Me
 
-- Computer Engineering student with a strong foundation in **C++** and **Object-Oriented Programming**.
-- Focused on **Full-Stack Web Development**, **AI & IoT**, and **Data Structures & Algorithms**.
-- Actively participate in **hackathons** and enjoy turning ideas into real, working projects.
-- Currently sharpening problem-solving skills and building projects that combine software with hardware.
-- Open to collaboration on full-stack, AI/IoT, and hackathon-driven builds.
+- Computer Engineering student focused on **Full-Stack Web Development**, **AI & IoT**, and **Data Structures & Algorithms**.
+- Take part in **hackathons** (Smart India Hackathon 2026, IBM Bob Hackathon) and turn ideas into working, deployed projects.
+- Enjoy solving problems on LeetCode and building real-world projects end to end.
 
 <br/>
 
@@ -34,6 +32,7 @@
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 **Database & Cloud**
 <br/>
@@ -50,27 +49,13 @@
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/PatelDwij&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=58A6FF&logo=github"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=PatelDwij&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</div>
-
-<br/>
-
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
@@ -82,81 +67,52 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/OddoxGcet-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/Shiv%20Furniture%20ERP-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-**Shiv Furniture ERP** — a full-stack enterprise resource planning (ERP) system with client-server architecture and authentication.
+A full-stack enterprise resource planning (ERP) system with client-server architecture and authentication.
 
 `JavaScript` `Full-Stack`
 
-<img src="https://img.shields.io/github/stars/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Stars"/>
 <img src="https://img.shields.io/github/last-commit/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Updated"/>
 
-**[Explore Repository →](https://github.com/PatelDwij/OddoxGcet)** · **[Live Demo →](https://oddox-gcet-796i.vercel.app/)**
+**[Repository →](https://github.com/PatelDwij/OddoxGcet)** · **[Live Demo →](https://oddox-gcet-796i.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/OdooXParul-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/Traveloop-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-**Traveloop** — a full-stack travel planning platform with trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
+A full-stack travel planning platform with trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
 
 `JavaScript` `Full-Stack` `Travel-Tech`
 
-<img src="https://img.shields.io/github/stars/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Stars"/>
 <img src="https://img.shields.io/github/last-commit/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Updated"/>
 
-**[Explore Repository →](https://github.com/PatelDwij/OdooXParul)** · **[Live Demo →](https://odoo-x-parul-kappa.vercel.app/)**
+**[Repository →](https://github.com/PatelDwij/OdooXParul)** · **[Live Demo →](https://odoo-x-parul-kappa.vercel.app/)**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/SIH%202026-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-**Smart India Hackathon 2026 — two live projects**
-
-🏥 **Anvay Healthcare Network** — a healthcare network platform connecting patients and care services.
-
-**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)**
-
-🌦️ **Weather App** — a live weather web app with real-time conditions for any location.
-
-**[Weather Live Demo →](https://weather-a9f6b.web.app/)**
-
-`SIH 2026` `Healthcare` `Weather` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/IBM%20BOB%20CHARUSAT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-**GridGuard AI** — an AI-powered project built for the IBM BOB hackathon at CHARUSAT.
-
-`IBM BOB` `AI` `Firebase`
-
-**[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Coding%20Wizards-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-**Coding Wizard — Screenshot to Structured Data** — converts timetables, posters, notices, or receipts into structured information using OCR and LLM-based extraction, then triggers a useful action from the result.
-
-`AI / Automation` `OCR` `LLM API` `Web UI`
-
-<img src="https://img.shields.io/github/stars/PatelDwij/Coding_Wizards?style=flat-square&color=58A6FF&label=Stars"/>
-<img src="https://img.shields.io/github/last-commit/PatelDwij/Coding_Wizards?style=flat-square&color=58A6FF&label=Updated"/>
-
-**[Explore Repository →](https://github.com/PatelDwij/Coding_Wizards)** · **[Live Demo →](https://coding-wizards.vercel.app/)**
-
-</td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
+
+<br/>
+
+## Hackathon Projects
+
+### IBM Bob Hackathon (CHARUSAT) — GridGuard AI
+
+Power outage prediction and grid equipment failure advisor, built with a team of four in the AI track. It combines simulated asset-health sensor data, weather conditions, and historical incidents to score equipment risk from 0 to 100, rank assets by grid impact, show them on an interactive risk map, and turn the results into maintenance and crew plans. The prototype runs on simulated data, not live utility feeds.
+
+`JavaScript` `Vite` `Leaflet` `Firebase` `IBM Bob`
+
+**[Repository →](https://github.com/PatelDwij/bob-ai-hackathon-GridGuard)** · **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
+
+### Smart India Hackathon 2026
+
+| Project | About | Live |
+| :-- | :-- | :-- |
+| **ANVAY** | Interconnected hospital healthcare network | [Open →](https://anvay-healthcare-network.web.app) |
+| **WeatherGPT** | National weather big-data analytics platform with real-time telemetry, AI-assisted analysis with human verification, and multi-language support | [Open →](https://weather-a9f6b.web.app/) |
+| **MahaUdyogSetu** | Single-window system for business approvals with AI regulatory intelligence, a document vault, risk-based fast-tracking, and SLA delay analytics | [Open →](https://maha-udyog-setu.vercel.app/) |
 
 <br/>
 
