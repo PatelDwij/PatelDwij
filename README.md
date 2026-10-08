@@ -12,9 +12,11 @@
 
 ## About Me
 
-- Computer Engineering student focused on **Full-Stack Web Development**, **AI & IoT**, and **Data Structures & Algorithms**.
-- Take part in **hackathons** (Smart India Hackathon 2026, IBM Bob Hackathon) and turn ideas into working, deployed projects.
-- Enjoy solving problems on LeetCode and building real-world projects end to end.
+- Computer Engineering student with a strong foundation in **C++** and **Object-Oriented Programming**.
+- Focused on **Full-Stack Web Development**, **AI & IoT**, and **Data Structures & Algorithms**.
+- Actively participate in **hackathons** and enjoy turning ideas into real, working projects.
+- Currently sharpening problem-solving skills and building projects that combine software with hardware.
+- Open to collaboration on full-stack, AI/IoT, and hackathon-driven builds.
 
 <br/>
 
@@ -32,7 +34,6 @@
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 **Database & Cloud**
 <br/>
@@ -49,14 +50,10 @@
 
 <br/>
 
-## Contribution Activity
+## Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <br/>
@@ -92,27 +89,57 @@ A full-stack travel planning platform with trip creation, itinerary building wit
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<img src="https://img.shields.io/badge/GridGuard%20AI-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-## Hackathon Projects
+Power outage prediction and grid equipment failure advisor. It scores equipment risk from 0 to 100 using simulated sensor, weather and incident data, shows assets on a risk map, and generates maintenance and crew plans.
 
-### IBM Bob Hackathon (CHARUSAT) — GridGuard AI
+`IBM Bob Hackathon` `AI` `Firebase`
 
-Power outage prediction and grid equipment failure advisor, built with a team of four in the AI track. It combines simulated asset-health sensor data, weather conditions, and historical incidents to score equipment risk from 0 to 100, rank assets by grid impact, show them on an interactive risk map, and turn the results into maintenance and crew plans. The prototype runs on simulated data, not live utility feeds.
-
-`JavaScript` `Vite` `Leaflet` `Firebase` `IBM Bob`
+<img src="https://img.shields.io/github/last-commit/PatelDwij/bob-ai-hackathon-GridGuard?style=flat-square&color=58A6FF&label=Updated"/>
 
 **[Repository →](https://github.com/PatelDwij/bob-ai-hackathon-GridGuard)** · **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
 
-### Smart India Hackathon 2026
+</td>
+<td width="50%" valign="top">
 
-| Project | About | Live |
-| :-- | :-- | :-- |
-| **ANVAY** | Interconnected hospital healthcare network | [Open →](https://anvay-healthcare-network.web.app) |
-| **WeatherGPT** | National weather big-data analytics platform with real-time telemetry, AI-assisted analysis with human verification, and multi-language support | [Open →](https://weather-a9f6b.web.app/) |
-| **MahaUdyogSetu** | Single-window system for business approvals with AI regulatory intelligence, a document vault, risk-based fast-tracking, and SLA delay analytics | [Open →](https://maha-udyog-setu.vercel.app/) |
+<img src="https://img.shields.io/badge/ANVAY-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+
+Interconnected hospital healthcare network.
+
+`SIH 2026` `Healthcare`
+
+**[Live Demo →](https://anvay-healthcare-network.web.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/WeatherGPT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+
+National weather big-data analytics platform with real-time telemetry, AI-assisted analysis with human verification, and multi-language support.
+
+`SIH 2026` `Weather Analytics`
+
+**[Live Demo →](https://weather-a9f6b.web.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MahaUdyogSetu-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+
+Single-window system for business approvals with AI regulatory intelligence, a document vault, risk-based fast-tracking, and SLA delay analytics.
+
+`SIH 2026` `Business Approvals`
+
+**[Live Demo →](https://maha-udyog-setu.vercel.app/)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
