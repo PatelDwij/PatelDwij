@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Patel%20Dwij&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Patel%20Dwij&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20%26%20AI%2FIoT%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/PatelDwij">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;AI+%26+IoT+Enthusiast;Competitive+Problem+Solver;Hackathon+Participant" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<a href="https://github.com/PatelDwij">
+  <img src="https://komarev.com/ghpvc/?username=PatelDwij&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+</a>
+<img src="https://img.shields.io/github/followers/PatelDwij?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
 
 </div>
 
@@ -28,15 +35,21 @@
 <br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 **Web & Frameworks**
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 **Database & Cloud**
 <br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 **AI / IoT & Tools**
@@ -46,6 +59,21 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
+> Note: adjust the badges above to match what you actually use — keep this list honest to your real stack.
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PatelDwij&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelDwij&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelDwij&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
 
 <br/>
@@ -58,88 +86,28 @@
 
 <br/>
 
+## Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PatelDwij&theme=darkhub&no-frame=true&row=1&column=6"/>
+</div>
+
+<br/>
+
 ## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Shiv%20Furniture%20ERP-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<a href="https://github.com/PatelDwij/OddoxGcet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatelDwij&repo=OddoxGcet&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/PatelDwij/OdooXParul">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatelDwij&repo=OdooXParul&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+</a>
 
-A full-stack enterprise resource planning (ERP) system with client-server architecture and authentication.
+</div>
 
-`JavaScript` `Full-Stack`
-
-<img src="https://img.shields.io/github/last-commit/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Updated"/>
-
-**[Repository →](https://github.com/PatelDwij/OddoxGcet)** · **[Live Demo →](https://oddox-gcet-796i.vercel.app/)**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Traveloop-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-A full-stack travel planning platform with trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
-
-`JavaScript` `Full-Stack` `Travel-Tech`
-
-<img src="https://img.shields.io/github/last-commit/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Updated"/>
-
-**[Repository →](https://github.com/PatelDwij/OdooXParul)** · **[Live Demo →](https://odoo-x-parul-kappa.vercel.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/GridGuard%20AI-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-Power outage prediction and grid equipment failure advisor. It scores equipment risk from 0 to 100 using simulated sensor, weather and incident data, shows assets on a risk map, and generates maintenance and crew plans.
-
-`IBM Bob Hackathon` `AI` `Firebase`
-
-<img src="https://img.shields.io/github/last-commit/PatelDwij/bob-ai-hackathon-GridGuard?style=flat-square&color=58A6FF&label=Updated"/>
-
-**[Repository →](https://github.com/PatelDwij/bob-ai-hackathon-GridGuard)** · **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/ANVAY-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-Interconnected hospital healthcare network.
-
-`SIH 2026` `Healthcare`
-
-**[Live Demo →](https://anvay-healthcare-network.web.app)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/WeatherGPT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-National weather big-data analytics platform with real-time telemetry, AI-assisted analysis with human verification, and multi-language support.
-
-`SIH 2026` `Weather Analytics`
-
-**[Live Demo →](https://weather-a9f6b.web.app/)**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/MahaUdyogSetu-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-Single-window system for business approvals with AI regulatory intelligence, a document vault, risk-based fast-tracking, and SLA delay analytics.
-
-`SIH 2026` `Business Approvals`
-
-**[Live Demo →](https://maha-udyog-setu.vercel.app/)**
-
-</td>
-</tr>
-</table>
+> These are pulled from your actual pinned repositories. Update the pin selection any time from your GitHub profile page ("Customize your pins"), and this card updates automatically — no README edit needed.
 
 <br/>
 
@@ -165,3 +133,5 @@ Single-window system for business approvals with AI regulatory intelligence, a d
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
