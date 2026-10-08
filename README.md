@@ -50,10 +50,28 @@
 
 <br/>
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/PatelDwij&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=58A6FF&logo=github"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=PatelDwij&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</div>
+
+<br/>
+
 ## Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/PatelDwij/PatelDwij/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
 <br/>
@@ -64,80 +82,79 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Shiv%20Furniture%20ERP-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/OddoxGcet-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-A full-stack enterprise resource planning (ERP) system with client-server architecture and authentication.
+**Shiv Furniture ERP** — a full-stack enterprise resource planning (ERP) system with client-server architecture and authentication.
 
 `JavaScript` `Full-Stack`
 
+<img src="https://img.shields.io/github/stars/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Stars"/>
 <img src="https://img.shields.io/github/last-commit/PatelDwij/OddoxGcet?style=flat-square&color=58A6FF&label=Updated"/>
 
-**[Repository →](https://github.com/PatelDwij/OddoxGcet)** · **[Live Demo →](https://oddox-gcet-796i.vercel.app/)**
+**[Explore Repository →](https://github.com/PatelDwij/OddoxGcet)** · **[Live Demo →](https://oddox-gcet-796i.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Traveloop-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/OdooXParul-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-A full-stack travel planning platform with trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
+**Traveloop** — a full-stack travel planning platform with trip creation, itinerary building with budget tracking, packing checklists, invoicing, a community feed, and admin analytics.
 
 `JavaScript` `Full-Stack` `Travel-Tech`
 
+<img src="https://img.shields.io/github/stars/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Stars"/>
 <img src="https://img.shields.io/github/last-commit/PatelDwij/OdooXParul?style=flat-square&color=58A6FF&label=Updated"/>
 
-**[Repository →](https://github.com/PatelDwij/OdooXParul)** · **[Live Demo →](https://odoo-x-parul-kappa.vercel.app/)**
+**[Explore Repository →](https://github.com/PatelDwij/OdooXParul)** · **[Live Demo →](https://odoo-x-parul-kappa.vercel.app/)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/GridGuard%20AI-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/SIH%202026-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-Power outage prediction and grid equipment failure advisor. It scores equipment risk from 0 to 100 using simulated sensor, weather and incident data, shows assets on a risk map, and generates maintenance and crew plans.
+**Smart India Hackathon 2026 — two live projects**
 
-`IBM Bob Hackathon` `AI` `Firebase`
+🏥 **Anvay Healthcare Network** — a healthcare network platform connecting patients and care services.
 
-<img src="https://img.shields.io/github/last-commit/PatelDwij/bob-ai-hackathon-GridGuard?style=flat-square&color=58A6FF&label=Updated"/>
+**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)**
 
-**[Repository →](https://github.com/PatelDwij/bob-ai-hackathon-GridGuard)** · **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
+🌦️ **Weather App** — a live weather web app with real-time conditions for any location.
+
+**[Weather Live Demo →](https://weather-a9f6b.web.app/)**
+
+`SIH 2026` `Healthcare` `Weather` `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/ANVAY-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/IBM%20BOB%20CHARUSAT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-Interconnected hospital healthcare network.
+**GridGuard AI** — an AI-powered project built for the IBM BOB hackathon at CHARUSAT.
 
-`SIH 2026` `Healthcare`
+`IBM BOB` `AI` `Firebase`
 
-**[Live Demo →](https://anvay-healthcare-network.web.app)**
+**[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/WeatherGPT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/Coding%20Wizards-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
-National weather big-data analytics platform with real-time telemetry, AI-assisted analysis with human verification, and multi-language support.
+**Coding Wizard — Screenshot to Structured Data** — converts timetables, posters, notices, or receipts into structured information using OCR and LLM-based extraction, then triggers a useful action from the result.
 
-`SIH 2026` `Weather Analytics`
+`AI / Automation` `OCR` `LLM API` `Web UI`
 
-**[Live Demo →](https://weather-a9f6b.web.app/)**
+<img src="https://img.shields.io/github/stars/PatelDwij/Coding_Wizards?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/Coding_Wizards?style=flat-square&color=58A6FF&label=Updated"/>
 
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/MahaUdyogSetu-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-Single-window system for business approvals with AI regulatory intelligence, a document vault, risk-based fast-tracking, and SLA delay analytics.
-
-`SIH 2026` `Business Approvals`
-
-**[Live Demo →](https://maha-udyog-setu.vercel.app/)**
+**[Explore Repository →](https://github.com/PatelDwij/Coding_Wizards)** · **[Live Demo →](https://coding-wizards.vercel.app/)**
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
