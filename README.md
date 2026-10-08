@@ -34,10 +34,12 @@
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
-**Database & Cloud**
+**Database, Cloud & Hosting**
 <br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 **AI / IoT & Tools**
 <br/>
@@ -112,37 +114,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SIH%202026-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-**Smart India Hackathon 2026 — two live projects**
-
-🏥 **Anvay Healthcare Network** — a healthcare network platform connecting patients and care services.
-
-**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)**
-
-🌦️ **Weather App** — a live weather web app with real-time conditions for any location.
-
-**[Weather Live Demo →](https://weather-a9f6b.web.app/)**
-
-`SIH 2026` `Healthcare` `Weather` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/IBM%20BOB%20CHARUSAT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
-
-**GridGuard AI** — an AI-powered project built for the IBM BOB hackathon at CHARUSAT.
-
-`IBM BOB` `AI` `Firebase`
-
-**[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Coding%20Wizards-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+<img src="https://img.shields.io/badge/Coding%20Wizard-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
 
 **Coding Wizard — Screenshot to Structured Data** — converts timetables, posters, notices, or receipts into structured information using OCR and LLM-based extraction, then triggers a useful action from the result.
 
@@ -154,7 +126,43 @@
 **[Explore Repository →](https://github.com/PatelDwij/Coding_Wizards)** · **[Live Demo →](https://coding-wizards.vercel.app/)**
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/IBM%20BOB%20CHARUSAT-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+
+**GridGuard AI** — a power outage prediction and grid equipment failure advisor. It combines simulated sensor, weather and incident data into an explainable 0–100 risk score, ranks assets by grid impact, and turns it into maintenance and crew planning. Built with my team.
+
+`AI` `Vite` `Leaflet` `Firebase` `IBM Bob`
+
+<img src="https://img.shields.io/github/stars/PatelDwij/bob-ai-hackathon-GridGuard?style=flat-square&color=58A6FF&label=Stars"/>
+<img src="https://img.shields.io/github/last-commit/PatelDwij/bob-ai-hackathon-GridGuard?style=flat-square&color=58A6FF&label=Updated"/>
+
+**[Explore Repository →](https://github.com/PatelDwij/bob-ai-hackathon-GridGuard)** · **[Live Demo →](https://gridguard-ai-32b1b.web.app/)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="https://img.shields.io/badge/SIH%202026-1e2327?style=for-the-badge&labelColor=58A6FF&color=1e2327"/>
+
+**Smart India Hackathon 2026 — three live projects**
+
+🏥 **ANVAY** — an interconnected hospital healthcare network platform.
+
+**[Anvay Live Demo →](https://anvay-healthcare-network.web.app)**
+
+🌦️ **WeatherGPT** — a national weather big-data analytics platform with real-time telemetry, AI-assisted analysis with human verification, multi-language support, and PWA capabilities.
+
+**[WeatherGPT Live Demo →](https://weather-a9f6b.web.app/)**
+
+🏭 **MahaUdyogSetu** — a single-window system for business approvals, with AI regulatory intelligence, a pre-validation document vault, risk-based fast-tracking, parallel department processing, and SLA delay analytics.
+
+**[MahaUdyogSetu Live Demo →](https://maha-udyog-setu.vercel.app/)**
+
+`SIH 2026` `Healthcare` `Weather Analytics` `Business Approvals`
+
+</td>
 </tr>
 </table>
 
